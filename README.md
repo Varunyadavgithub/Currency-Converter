@@ -14,7 +14,7 @@ Follow these steps to perform a conversion.<br>
 
 🔶 Initiate Conversion :- Click the "Convert" button to execute the conversion.<br>
 
-🔶 View Results :- The converted amount will be displayed below the "Convert" button.<br>
+🔶 View Results :- The converted amount will be displayed above  the "Convert" button.<br>
 
 # Features
 ➡️ Real-time Exchange Rates<br>
