@@ -64,9 +64,6 @@ If you encounter any issues or have questions, consider the following :- <br>
 # 🤝 Contributions:
 Contributions are warmly welcomed! Whether you have suggestions for improvements or discover any bugs, please feel free to open an issue or submit a pull request.
 
-# 🌟 Author:
-[varunyadavgithub]
-
 # 🙏 Acknowledgements:
 Special appreciation to [Exchange Rate API Provider] for providing the invaluable exchange rate data used in this project.
 
