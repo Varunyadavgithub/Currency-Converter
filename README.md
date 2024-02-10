@@ -28,6 +28,8 @@ The user interface is designed to be responsive, adapting to different screen si
 
 # Demo 🎥
 
+https://github.com/Varunyadavgithub/Currency-Converter/assets/134674472/acd03f0c-bda4-4ebe-9d79-bf25958c1fef
+
 
 # Troubleshooting
 If you encounter any issues or have questions, consider the following :- <br>
@@ -35,3 +37,36 @@ If you encounter any issues or have questions, consider the following :- <br>
 🛜 Internet Connection :- Ensure that your device has a stable internet connection to fetch real-time exchange rates.<br>
 
 🌐 Browser Compatibility :- The Currency Converter is designed to work on modern web browsers. If you encounter issues, try using the latest version of a popular browser like Chrome, Firefox, or Safari.<br>
+
+
+
+# 🛠 Technologies Used:
+- *HTML:* Provides the structure of the web page.
+- *CSS:* Styles the converter with attractive layouts and designs.
+- *JavaScript:* Powers dynamic functionality and seamless API integration.
+
+#### 🚀 How to Use:
+1. Open the index.html file in your preferred web browser.
+2. Select the currency you wish to convert from and to using the dropdown menus.
+3. Enter the amount you want to convert.
+4. Witness the converted amount displayed instantly with a touch of elegance.
+
+# 📁 File Structure:
+- index.html: Contains the HTML structure of the currency converter.
+- style.css: Enriches the converter with visually appealing styles and layouts.
+- script.js: Empowers the converter with dynamic functionalities for exchange rate retrieval and conversions.
+
+# 🔮 Future Improvements:
+- *Offline Functionality:* Implement caching or offline storage for basic functionality without an internet connection.
+- *Additional Features:* Integrate support for historical exchange rates, multiple conversion modes, or currency trend analysis.
+- *Enhanced Design:* Elevate the user interface with enhanced styling and captivating animations.
+
+# 🤝 Contributions:
+Contributions are warmly welcomed! Whether you have suggestions for improvements or discover any bugs, please feel free to open an issue or submit a pull request.
+
+# 🌟 Author:
+[varunyadavgithub]
+
+# 🙏 Acknowledgements:
+Special appreciation to [Exchange Rate API Provider] for providing the invaluable exchange rate data used in this project.
+
